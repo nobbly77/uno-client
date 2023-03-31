@@ -1,0 +1,30 @@
+E:\uno client\uno client\obj\Debug\uno client.csproj.AssemblyReference.cache
+E:\uno client\uno client\obj\Debug\uno client.csproj.SuggestedBindingRedirects.cache
+E:\uno client\uno client\obj\Debug\uno_client.game.resources
+E:\uno client\uno client\obj\Debug\uno_client.Properties.Resources.resources
+E:\uno client\uno client\obj\Debug\uno client.csproj.GenerateResource.cache
+E:\uno client\uno client\obj\Debug\uno client.csproj.CoreCompileInputs.cache
+E:\uno client\uno client\bin\Debug\uno client.exe.config
+E:\uno client\uno client\bin\Debug\uno client.exe
+E:\uno client\uno client\bin\Debug\uno client.pdb
+E:\uno client\uno client\obj\Debug\uno client.exe
+E:\uno client\uno client\obj\Debug\uno client.pdb
+D:\uno client\uno client\bin\Debug\uno client.exe.config
+D:\uno client\uno client\bin\Debug\uno client.exe
+D:\uno client\uno client\bin\Debug\uno client.pdb
+D:\uno client\uno client\obj\Debug\uno client.csproj.AssemblyReference.cache
+D:\uno client\uno client\obj\Debug\uno client.csproj.SuggestedBindingRedirects.cache
+D:\uno client\uno client\obj\Debug\uno_client.connectScreen.resources
+D:\uno client\uno client\obj\Debug\uno_client.game.resources
+D:\uno client\uno client\obj\Debug\uno_client.Properties.Resources.resources
+D:\uno client\uno client\obj\Debug\uno client.csproj.GenerateResource.cache
+D:\uno client\uno client\obj\Debug\uno client.csproj.CoreCompileInputs.cache
+D:\uno client\uno client\obj\Debug\uno client.exe
+D:\uno client\uno client\obj\Debug\uno client.pdb
+E:\uno client\uno client\obj\Debug\uno_client.connectScreen.resources
+D:\uno client\uno client\obj\Debug\uno_client.wildSelection.resources
+E:\uno client\uno client\obj\Debug\uno_client.wildSelection.resources
+D:\uno client\uno client\bin\Debug\uno client.exe.manifest
+D:\uno client\uno client\bin\Debug\uno client.application
+D:\uno client\uno client\obj\Debug\uno client.exe.manifest
+D:\uno client\uno client\obj\Debug\uno client.application
